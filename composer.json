@@ -2,5 +2,6 @@
     "name": "kg/static-bundle",
     "autoload": {
         "psr-0": { "KG\\StaticBundle": "" }
-    }
+    },
+    "target-dir": "KG/StaticBundle"
 }
