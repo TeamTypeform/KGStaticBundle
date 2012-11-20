@@ -1,3 +1,6 @@
 {
-    "name": "teamtypeform/static-bundle"
+    "name": "kg/static-bundle",
+    "autoload": {
+        "psr-0": { "KG\\StaticBundle": "" }
+    }
 }
